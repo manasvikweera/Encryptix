@@ -1,11 +1,11 @@
-## Encryptix
+# Encryptix
 
-# Task 1
-# SPAM SMS DETECTION
+## Task 1
+## SPAM SMS DETECTION
 
 Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages
 
-# Task 2
-# MOVIE GENRE CLASSIFICATION
+## Task 2
+## MOVIE GENRE CLASSIFICATION
 
 Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.
